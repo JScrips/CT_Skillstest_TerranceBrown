@@ -1,0 +1,95 @@
+/* Mobile */
+@media screen and (max-width: 480px) {
+  header {
+    background-image: url("/src/images/TOPSECTION.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #history-section {
+    background-image: url("/src/images/01..png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #team-tab-pane-one {
+    background-image: url("/src/images/firsttab.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #team-tab-pane-two {
+    background-image: url("/src/images/secondtab.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+}
+
+/* Tablet */
+@media screen and (max-width: 980px) {
+  header {
+    background-image: url("/src/images/TOPSECTION.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #history-section {
+    background-image: url("/src/images/01..png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #team-tab-pane-one {
+    background-image: url("/src/images/firsttab.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #team-tab-pane-two {
+    background-image: url("/src/images/secondtab.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 981px) {
+  header {
+    background-image: url("/src/images/TOPSECTION.png");
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #history-section {
+    background-image: url("/src/images/01..png");
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #team-tab-pane-one {
+    background-image: url("/src/images/firsttab.png");
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  #team-tab-pane-two {
+    background-image: url("/src/images/secondtab.png");
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+}
